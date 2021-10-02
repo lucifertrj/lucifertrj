@@ -43,8 +43,11 @@
    <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
   </p>
-  
-<h4 align="left">Douitashimashite</h4>
+ 
+  <p align="left">
+<h3> Douitashimashite 🙇🏽</h3>
+  </p>
+  <p align="right">
 <img src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif" alt="Welcome" align="right>
 </p>
 <a href="https://www.buymeacoffee.com/trjtarun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
