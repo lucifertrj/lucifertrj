@@ -44,13 +44,14 @@
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
   </p>
  
-  <p align="left">
+
+  <p align="center">
 <h3> Douitashimashite 🙇🏽</h3>
-  </p>
-  <p align="right">
+ 
 <img src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif" alt="Welcome" align="right>
-</p>
+
 <a href="https://www.buymeacoffee.com/trjtarun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+ </p>
  
 <h3> Contact </h3>
   
