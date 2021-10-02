@@ -45,6 +45,7 @@
   </p>
   
 <p align="center">
+  <h4>Douitashimashite</h4>
 <img src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif" alt="Welcome">
 </p>
 <a href="https://www.buymeacoffee.com/trjtarun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
