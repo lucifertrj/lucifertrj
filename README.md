@@ -48,7 +48,7 @@
 <img src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif" alt="Welcome">
 </p>
 <p align="center">
-<br>
-<img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png"  href="https://www.buymeacoffee.com/trjtarun" width="300">
+  <h4>Like Anime Vyuh? <a href="https://www.buymeacoffee.com/trjtarun"> Contribute Here </a> </h4>
+<img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" width="300">
 </p>
 
