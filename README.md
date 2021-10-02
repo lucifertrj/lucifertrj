@@ -47,8 +47,9 @@
 <p align="center">
 <img src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif" alt="Welcome">
 </p>
-<a href="https://www.buymeacoffee.com/trjtarun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-purple.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/trjtarun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
+ 
 <h3> Contact </h3>
   
 <a href="https://twitter.com/TRJ_0751">
@@ -60,8 +61,8 @@
 <a href="https://discord.com/invite/jv8jC2CAhn">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://in.pinterest.com/AnimeVyuh/">
-  <img align="left" alt="Tarun Pinterest" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/pinterest.svg" />
+<a href="https://www.reddit.com/user/trj_flash75">
+  <img align="left" alt="Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
   <a href="https://www.youtube.com/channel/UCzgB9IMJ9QGcQzfEGNjJdxg">
   <img align="left" alt="Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
