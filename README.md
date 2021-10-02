@@ -47,8 +47,22 @@
 <p align="center">
 <img src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif" alt="Welcome">
 </p>
-<p align="center">
-  <h4>Like Anime Vyuh? <a href="https://www.buymeacoffee.com/trjtarun"> Contribute Here </a> </h4>
-<img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" width="300">
-</p>
+<a href="https://www.buymeacoffee.com/trjtarun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-purple.png" alt="Buy Me A Coffee" width="150" ></a>
 
+<h3> Contact </h3>
+  
+<a href="https://twitter.com/TRJ_0751">
+  <img align="left" alt="Tarun Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/tarun-r-jain-3ba397191/">
+  <img align="left" alt="Tarun LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://discord.com/invite/jv8jC2CAhn">
+  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://in.pinterest.com/AnimeVyuh/">
+  <img align="left" alt="Tarun Pinterest" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/pinterest.svg" />
+</a>
+  <a href="https://www.youtube.com/channel/UCzgB9IMJ9QGcQzfEGNjJdxg">
+  <img align="left" alt="Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
