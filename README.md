@@ -3,8 +3,7 @@
 <h3> Hajimemashite 👋 <a href="https://tarunjain.netlify.app/">Jain Tarun</a> desu. Yoroshiku onegai shimasu </h3>
 <br />
 <img src="https://github.com/lucifertrj/lucifertrj/blob/main/luffy_smile.jpeg" alt="Luffy👒" href="https://animevyuh.org/straw-hat-pirates-dreams/">
-</div>
-<div align="left">
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=fcc624)
 ![](https://img.shields.io/badge/Shell-bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=a42e2b)
 ![](https://img.shields.io/badge/Editor-VS-informational?style=flat-square&logo=neovim&logoColor=white&color=57a143)
