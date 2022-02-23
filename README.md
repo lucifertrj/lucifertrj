@@ -15,13 +15,14 @@
 <span>
 
 - 🔭 I’m currently working on <a href="https://animevyuh.org">Anime Vyuh</a>
-- 🌱 I’m currently learning Machine Learning Algorithms
-- 🤔 I’m looking for help with Embedded Systems and Open Source Projects
+- 🌱 I’m currently learning Neural Networks
+- 🤔 I’m looking for help with Embedded Systems and VLSI Projects
 - 📫 How to reach me: <a href="https://twitter.com/TRJ_0751">Tarun Jain</a>
 - 😄 Website: Check out my website <a href="https://animevyuh.org">Anime Vyuh</a>
 - ⚡ Fun fact: I love watching Anime and read Manga
 
 🤵 My PORTFOLIO : <a href="https://tarunjain.netlify.app/">TARUN R JAIN</a>
+📫 My Business Mail: <a href="mailto:admin@animevyuh.org">Anime Vyuh Admin</a>
 
 </div>
 
