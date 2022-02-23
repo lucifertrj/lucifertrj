@@ -22,6 +22,7 @@
 - ⚡ Fun fact: I love watching Anime and read Manga
 
 🤵 My PORTFOLIO : <a href="https://tarunjain.netlify.app/">TARUN R JAIN</a>
+  <br/>
 📫 My Business Mail: <a href="mailto:admin@animevyuh.org">Anime Vyuh Admin</a>
 
 </div>
