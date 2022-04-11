@@ -67,9 +67,6 @@
 <a href="https://discord.com/invite/jv8jC2CAhn">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.reddit.com/user/trj_flash75">
-  <img align="left" alt="Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
   <a href="https://www.youtube.com/channel/UCzgB9IMJ9QGcQzfEGNjJdxg">
   <img align="left" alt="Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
