@@ -10,8 +10,10 @@
 ![](https://img.shields.io/badge/Branch-ECE-informational?style=flat-square&logo=docker&logoColor=white&color=2496ed)
 </div>
 <div>
-<span class="bio">
-  <strong>I'm a Student, Blogger, Creator, ML Enthusiat and Otaku!!</strong>
+<span cl
+87
+  [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jaintarun7)ass="bio">
+  <strongmedium]>I'm a Student, Blogger, Creator, ML Enthusiat and Otaku!!</strong>
 <span>
 
 - 🔭 I’m currently working on <a href="https://animevyuh.org">Anime Vyuh</a>
@@ -68,7 +70,7 @@
  </p>
 </div> 
 <h3> Contact </h3>
-  
+  <div>
 <a href="https://twitter.com/TRJ_0751">
   <img align="left" alt="Tarun Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -81,3 +83,11 @@
   <a href="https://www.youtube.com/channel/UCzgB9IMJ9QGcQzfEGNjJdxg">
   <img align="left" alt="Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
+  </div>
+  <br/>
+<h3> Blogs </h3>
+<div>
+  [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jaintarun7)
+  <br/>
+  [![](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://animevyuh.org/blog/)
+</div>
