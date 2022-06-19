@@ -85,9 +85,3 @@
 </a>
   </div>
   <br/>
-<h3> Blogs </h3>
-<div>
-  [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jaintarun7)
-  <br/>
-  [![](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://animevyuh.org/blog/)
-</div>
