@@ -77,7 +77,7 @@
 <a href="https://www.linkedin.com/in/tarun-r-jain-3ba397191/">
   <img align="left" alt="Tarun LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://discord.com/invite/jv8jC2CAhn">
+<a href="https://discord.gg/xXgGNKRy">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
   <a href="https://www.youtube.com/channel/UCzgB9IMJ9QGcQzfEGNjJdxg">
