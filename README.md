@@ -1,6 +1,6 @@
 
 <div align="center">
-<h3> Hajimemashite  <a href="https://tarunjain.netlify.app/">Jain Tarun</a> desu. Yoroshiku onegai shimasu </h3>
+<h3> Hajimemashite 👋 <a href="https://tarunjain.netlify.app/">Jain Tarun</a> desu. Yoroshiku onegai shimasu </h3>
 <br />
 <img src="https://github.com/lucifertrj/lucifertrj/blob/main/luffy_smile.jpeg" alt="Luffy👒" href="https://animevyuh.org/straw-hat-pirates-dreams/">
 
