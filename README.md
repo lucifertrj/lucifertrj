@@ -55,6 +55,7 @@
   ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
 ### Stats
+  <img align="center" src="https://i.pinimg.com/originals/f2/e3/80/f2e3803ff9156f1cb9f903f49490b972.gif" alt="working">
   
  <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifertrj&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/lucifertrj" />
  <div style="margin-down:5px;">
@@ -65,14 +66,13 @@
 <div>
 
 <div>
-### Join Discord Server
+
+<h3>Join Discord Server</h3>
 
 <a href="https://discord.com/invite/kxZYxdTKp6">
 <img src="https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1"></a>
 
 </div>
-
-<img align="center" src="https://i.pinimg.com/originals/f2/e3/80/f2e3803ff9156f1cb9f903f49490b972.gif" alt="working">
 
 <br/>
 <a href="https://www.buymeacoffee.com/trjtarun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
