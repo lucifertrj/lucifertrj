@@ -63,8 +63,17 @@
  <br/>
   </div>
 <div>
-  
-<img align="center" src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif" alt="Welcome">
+
+<div>
+### Join Discord Server
+
+<a href="https://discord.com/invite/kxZYxdTKp6">
+<img src="https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1"></a>
+
+</div>
+
+<img align="center" src="https://i.pinimg.com/originals/f2/e3/80/f2e3803ff9156f1cb9f903f49490b972.gif" alt="working">
+
 <br/>
 <a href="https://www.buymeacoffee.com/trjtarun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
  </p>
@@ -76,9 +85,6 @@
 </a>
 <a href="https://www.linkedin.com/in/tarun-r-jain-3ba397191/">
   <img align="left" alt="Tarun LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://discord.gg/xXgGNKRy">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
   <a href="https://www.youtube.com/channel/UCzgB9IMJ9QGcQzfEGNjJdxg">
   <img align="left" alt="Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
