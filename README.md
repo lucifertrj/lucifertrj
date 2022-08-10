@@ -1,13 +1,10 @@
 
 <div align="center">
-<h3> Hajimemashite 👋 <a href="https://tarunjain.netlify.app/">Jain Tarun</a> desu. Yoroshiku onegai shimasu </h3>
+<h3> Hello World! </h3>
 <br />
-<img src="https://github.com/lucifertrj/lucifertrj/blob/main/luffy.gif" alt="Luffy👒" href="https://animevyuh.org/straw-hat-pirates-dreams/">
+<img align="center" src="https://i.pinimg.com/originals/f2/e3/80/f2e3803ff9156f1cb9f903f49490b972.gif" alt="working">
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=fcc624)
-![](https://img.shields.io/badge/Shell-bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=a42e2b)
-![](https://img.shields.io/badge/Editor-VS-informational?style=flat-square&logo=neovim&logoColor=white&color=57a143)
-![](https://img.shields.io/badge/Branch-ECE-informational?style=flat-square&logo=docker&logoColor=white&color=2496ed)
+
 </div>
 <div>
 <span cl
@@ -55,7 +52,6 @@
   ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
 ### Stats
-  <img align="center" src="https://i.pinimg.com/originals/f2/e3/80/f2e3803ff9156f1cb9f903f49490b972.gif" alt="working">
   
  <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifertrj&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/lucifertrj" />
  <div style="margin-down:5px;">
@@ -65,7 +61,7 @@
   </div>
 <div>
 
-<div>
+<div align="center">
 
 <h3>Join Discord Server</h3>
 
@@ -91,3 +87,6 @@
 </a>
   </div>
   <br/>
+  
+
+
