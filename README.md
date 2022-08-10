@@ -1,16 +1,15 @@
 
 <div align="center">
-<h3> Hello World! </h3>
+<h2> Hello World! </h2>
 <br />
 <img align="center" src="https://i.pinimg.com/originals/f2/e3/80/f2e3803ff9156f1cb9f903f49490b972.gif" alt="working">
-
 
 </div>
 <div>
 <span cl
 87
   [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jaintarun7)ass="bio">
-  <strongmedium]>I'm a Student, Blogger, Creator, ML Enthusiat and Otaku!!</strong>
+  <strongmedium]><br/><h4>I'm a Student, Blogger, Creator, ML Enthusiat and Otaku!!</h4></strong>
 <span>
 
 - 🔭 I’m currently working on <a href="https://animevyuh.org">Anime Vyuh</a>
@@ -61,7 +60,7 @@
   </div>
 <div>
 
-<div align="center">
+<div>
 
 <h3>Join Discord Server</h3>
 
