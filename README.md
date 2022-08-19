@@ -38,10 +38,14 @@
   ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![](https://img.shields.io/badge/MATLAB-800800?style=for-the-badge&logo=matlab&logoColor=white)
+  ![](https://img.shields.io/badge/Verilog-FF00FF?style=for-the-badge&logo=verilog&logoColor=white)
   ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![](https://img.shields.io/badge/PyTorch-DF6F50?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
   ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![](https://img.shields.io/badge/PostgreSQL-00FF00?style=for-the-badge&logo=postgresql&logoColor=white)
   ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
   ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -49,6 +53,7 @@
   ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
   ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![](https://img.shields.io/badge/Docker-0000FF?style=for-the-badge&logo=docker&logoColor=white)
   
 ### Stats
   
@@ -84,8 +89,11 @@
   <a href="https://www.youtube.com/channel/UCzgB9IMJ9QGcQzfEGNjJdxg">
   <img align="left" alt="Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-  </div>
-  <br/>
+</div>
+
+[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=black)](https://www.kaggle.com/tarundalal)
+[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/trjflash75/)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jaintarun7)
   
 
 
