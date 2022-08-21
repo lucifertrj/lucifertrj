@@ -81,7 +81,7 @@
 <a href="https://www.buymeacoffee.com/trjtarun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
  </p>
 </div> 
-<h3> You can find me at... </h3>
+<h3> You can find me on... </h3>
   <div>
 <a href="https://twitter.com/TRJ_0751">
   <img align="left" alt="Tarun Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
