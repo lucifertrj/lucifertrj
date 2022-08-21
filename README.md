@@ -15,7 +15,7 @@
 </p>
 <span>
 
-- 🧠 I am the Man behind <a href="https://animevyuh.org">Anime Vyuh</a>
+- 🧠 I am the Man behind <a href="https://animevyuh.org">Anime Vyuh</a> and <a href="https://github.com/Eksauek">EkSauEk</a>
 - 🔭 Part of Research Work At CIT. Working on Hyperspectral Related Research Work
 - 🤯 Exploring Neural Networks and Transformers
 - 🤖 Interested in FPGA and AI
