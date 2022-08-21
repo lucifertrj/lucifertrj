@@ -9,15 +9,18 @@
 <span cl
 87
   [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jaintarun7)ass="bio">
-  <strongmedium]><br/><h4>I'm a Student, Blogger, Creator, ML Enthusiat and Otaku!!</h4></strong>
+<h1 align="center">It's me... Tarun</h1>
+<p align="center">
+  <b><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=CCA8FF&size=32&center=true&vCenter=true&lines=I+am+a+ML+Engineer.;I+am+a+Blogger.;I+love+Anime.;I+am+a+FPGA+Enthusiast."></b>
+</p>
 <span>
 
-- 🔭 I’m currently working on <a href="https://animevyuh.org">Anime Vyuh</a>
-- 🌱 I’m currently learning Neural Networks
-- 🤔 I’m looking for help with Embedded Systems and VLSI Projects
+- 🧠 I am the Man behind <a href="https://animevyuh.org">Anime Vyuh</a>
+- 🔭 Part of Research Work At CIT. Working on Hyperspectral Related Research Work
+- 🤯 Exploring Neural Networks and Transformers
+- 🤖 Interested in FPGA and AI
 - 📫 How to reach me: <a href="https://twitter.com/TRJ_0751">Tarun Jain</a>
-- 😄 Website: Check out my website <a href="https://animevyuh.org">Anime Vyuh</a>
-- ⚡ Fun fact: I love watching Anime and read Manga
+- ⚡ In my free time I spend watching Anime and read Manga
 
 🤵 My PORTFOLIO : <a href="https://tarunjain.netlify.app/">TARUN R JAIN</a>
   <br/>
@@ -78,7 +81,7 @@
 <a href="https://www.buymeacoffee.com/trjtarun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
  </p>
 </div> 
-<h3> Contact </h3>
+<h3> You can find me at... </h3>
   <div>
 <a href="https://twitter.com/TRJ_0751">
   <img align="left" alt="Tarun Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
