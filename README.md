@@ -28,7 +28,7 @@
 
 </div>
 
-#### Profile views counter
+#### 🐼Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{lucifertrj}/count.svg)
 
 
@@ -58,7 +58,7 @@
   ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![](https://img.shields.io/badge/Docker-0000FF?style=for-the-badge&logo=docker&logoColor=white)
   
-### Stats
+### 💻Stats
   
  <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifertrj&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/lucifertrj" />
  <div style="margin-down:5px;">
@@ -68,9 +68,18 @@
   </div>
 <div>
 
+<div> 
+<h3>📚Latest Blog Posts</h3>
+<a href="https://animevyuh.org/dominate-colors-in-an-image/">Dominant Colors in an Image using Python</a><br/>
+<a href="https://animevyuh.org/logistic-regression/">Logistic Regression Clearly Explained</a><br/>
+<a href="https://animevyuh.org/movie-recommendation-system/">Movie recommendation system Machine Learning</a><br/>
+<a href="https://animevyuh.org/twitter-retweet-bot/">Twitter Retweet Bot: How to make a Twitter Tweet Bot?</a><br/>
+<a href="https://animevyuh.org/markdown-language-guide/">Markdown Language Guide</a><br/>
+</div>
+
 <div>
 
-<h3>Join Discord Server</h3>
+<h3>🏆Join Discord Server</h3>
 
 <a href="https://discord.com/invite/kxZYxdTKp6">
 <img src="https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1"></a>
@@ -81,7 +90,7 @@
 <a href="https://www.buymeacoffee.com/trjtarun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
  </p>
 </div> 
-<h3> You can find me on... </h3>
+<h3> 👑You can find me on... </h3>
   <div>
 <a href="https://twitter.com/TRJ_0751">
   <img align="left" alt="Tarun Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
