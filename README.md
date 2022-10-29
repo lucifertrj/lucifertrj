@@ -12,14 +12,14 @@
 </p>
 
 ## Reach out for AV Workshops
-🤵 **Speaker PORTFOLIO** : <a href="https://tarunjain.netlify.app/">TARUN R JAIN</a>
-  <br/>
-📫 **Mail**: <a href="mailto:jain.tarun7501@gmail.com">Anime Vyuh Admin</a>
+🤵 **Speaker PORTFOLIO** : [TARUN R JAIN](https://tarunjain.netlify.app/)
+
+📫 **Mail**: [Anime Vyuh Admin](mailto:jain.tarun7501@gmail.com)
+
 🌐 **Know more about AV Workshops** : [AV Workshops](https://animevyuh.org/av-workshops/)
 
-</div>
-
  <div style="margin-down:5px;">
+ <h2> My GitHub Stats </h2>
   <p><img width=430 src="https://github-readme-stats.vercel.app/api?username=lucifertrj&count_private=true&theme=dark" /> 
     <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=lucifertrj&theme=dark" /></p>
  <br/>
@@ -27,7 +27,7 @@
 <div>
 
 <div> 
-<h3>📚Latest Blog Posts</h3>
+<h2>📚Latest Blog Posts</h2>
 <a href="https://animevyuh.org/gradio-complete-guide-for-beginners/">Gradio Complete Guide for Beginners</a><br/>
 <a href="https://animevyuh.org/dominate-colors-in-an-image/">Dominant Colors in an Image using Python</a><br/>
 <a href="https://animevyuh.org/logistic-regression/">Logistic Regression Clearly Explained</a><br/>
@@ -38,12 +38,12 @@
 
 <div>
 
-<h3>🏆Join Discord Server</h3>
+<h2>🏆Join Discord Server</h2>
 
 <a href="https://discord.com/invite/kxZYxdTKp6">
 <img src="https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1"></a>
 
-<h3>Connect</h3>
+<h2>Connect</h2>
   <div>
 <a href="https://twitter.com/TRJ_0751">
   <img align="left" alt="Tarun Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
