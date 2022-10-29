@@ -3,18 +3,19 @@
 <h2> tf.Variable("Hello World!").numpy() </h2>
 <br />
 </div>
-<div>
-<span cl
-87
-  [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jaintarun7)ass="bio">
-<h1 align="center">It's me... Tarun</h1>
+
+![av_workshops](https://user-images.githubusercontent.com/66197713/198831589-6d92aaa8-0fa3-4f38-9dc5-fc20006dd202.jpeg)
+
+ <h1 align="center">It's me... Tarun</h1>
 <p align="center">
   <b><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=CCA8FF&size=32&center=true&vCenter=true&lines=I+am+a+ML+Engineer.;I+am+a+Blogger.;I+love+Anime.;I+am+a+FPGA+Enthusiast."></b>
 </p>
 
-🤵 PORTFOLIO : <a href="https://tarunjain.netlify.app/">TARUN R JAIN</a>
+## Reach out for AV Workshops
+🤵 **Speaker PORTFOLIO** : <a href="https://tarunjain.netlify.app/">TARUN R JAIN</a>
   <br/>
-📫 Mail: <a href="mailto:admin@animevyuh.org">Anime Vyuh Admin</a>
+📫 **Mail**: <a href="mailto:jain.tarun7501@gmail.com">Anime Vyuh Admin</a>
+🌐 **Know more about AV Workshops** : [AV Workshops](https://animevyuh.org/av-workshops/)
 
 </div>
 
