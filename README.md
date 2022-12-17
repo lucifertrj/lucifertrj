@@ -1,7 +1,7 @@
 
 <div align="center">
-<h2> tf.Variable("Hello World!").numpy() </h2>
-<br />
+   <h2> tf.Variable("Hello World!").numpy() </h2>
+   <br />
 </div>
 
 ![av_workshops](https://user-images.githubusercontent.com/66197713/198831589-6d92aaa8-0fa3-4f38-9dc5-fc20006dd202.jpeg)
@@ -23,8 +23,11 @@
   <p><img width=430 src="https://github-readme-stats.vercel.app/api?username=lucifertrj&count_private=true&theme=dark" /> 
     <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=lucifertrj&theme=dark" /></p>
  <br/>
-  </div>
-<div>
+<img
+      src="https://github-profile-trophy.vercel.app/?username=lucifertrj"
+      alt="lucifertrj"
+  />
+ </div>
 
 <div> 
 <h2>📚Latest Blog Posts</h2>
