@@ -22,14 +22,14 @@ experience.add("Ex-Coding Mentor at CodeKaroYaro")
 
 experience.compile(
    volunteer = ["TensorFlow User Group- Event Co-organizer","Coding Ninjas Campus Ambassdor"],
-   skill = ["Deep Learning", "AI", "Image Processing","TensorFlow","PyTorch"],
-   tool = ["Jupyter NoteBook","Git-GitHub","Notion","ChatGPT","WordPress"],
+   skill = ["Deep Learning", "AI", "FPGA","Image Processing","TensorFlow","PyTorch","OpenVino"],
+   tool = ["Jupyter NoteBook","Git-GitHub","Notion","iVerilog","GTKwave","ChatGPT","WordPress","Docker"],
 )
 
 history = experience.fit(computer_vision,nlp,epochs=10)
 ```
-[![](https://img.shields.io/badge/Twitter-3C2ABE?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/TRJ_0751)
-[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=black)](https://www.kaggle.com/tarundalal)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/TRJ_0751)
+[![](https://img.shields.io/badge/Kaggle-00FF00?style=for-the-badge&logo=Kaggle&logoColor=black)](https://www.kaggle.com/tarundalal)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/trjflash75/)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jaintarun7)
 [![](https://img.shields.io/badge/HuggingFace-3C2ABE?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/lucifertrj)
