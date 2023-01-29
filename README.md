@@ -22,7 +22,7 @@ experience.add("Ex-Coding Mentor at CodeKaroYaro")
 
 experience.compile(
    volunteer = ["TensorFlow User Group- Event Co-organizer","Coding Ninjas Campus Ambassdor"],
-   skill = ["Deep Learning", "AI", "FPGA","Image Processing","TensorFlow","PyTorch","OpenVino"],
+   skill = ["Deep Learning", "AI", "FPGA","Image Processing","TensorFlow","PyTorch","OpenVino","Django","Flask"],
    tool = ["Jupyter NoteBook","Git-GitHub","Notion","iVerilog","GTKwave","ChatGPT","WordPress","Docker"],
 )
 
