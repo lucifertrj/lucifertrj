@@ -26,7 +26,7 @@ experience.compile(
    tool = ["Jupyter NoteBook","Git-GitHub","Notion","iVerilog","GTKwave","ChatGPT","WordPress","Docker"],
 )
 
-history = experience.fit(computer_vision,nlp,epochs=10)
+history = experience.fit(computer_vision,nlp,epochs=365)
 ```
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/TRJ_0751)
 [![](https://img.shields.io/badge/Kaggle-00FF00?style=for-the-badge&logo=Kaggle&logoColor=black)](https://www.kaggle.com/tarundalal)
