@@ -33,4 +33,5 @@ history = experience.fit(computer_vision,nlp,epochs=365)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/trjflash75/)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jaintarun7)
 [![](https://img.shields.io/badge/HuggingFace-3C2ABE?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/lucifertrj)
+[![](https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=dark-blue)](https://linkedin.com/in/jaintarun75)
 
