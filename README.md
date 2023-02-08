@@ -12,12 +12,13 @@
 name = tf.Variable("Tarun R Jain").numpy()
 
 experience = tf.Sequential()
-experience.add("Content Creator at Anime Vyuh")
 experience.add("Keras Working Group member at HuggingFace")
+experience.add("Product Engineer Intern at Oslash")
+experience.add("Event Ambassador at Deep Learning.ai")
+experience.add("Ex-Content Creator at Anime Vyuh")
 experience.add("Research Intern at CCCIR")
 experience.add("Ex-Machine Learning Engineer at Automize Apps")
 experience.add("Technical Content Writer at GeeksforGeeks")
-experience.add("Event Ambassador at Deep Learning.ai")
 experience.add("Ex-Coding Mentor at CodeKaroYaro")
 
 experience.compile(
