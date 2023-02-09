@@ -36,3 +36,9 @@ history = experience.fit(computer_vision,nlp,epochs=365)
 [![](https://img.shields.io/badge/HuggingFace-3C2ABE?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/lucifertrj)
 [![](https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=dark-blue)](https://linkedin.com/in/jaintarun75)
 
+
+## Join Our Community
+
+<a href="https://discord.gg/hEMqtDXCHA">
+<img src="https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1"></a>
+
