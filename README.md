@@ -4,7 +4,7 @@
    <br />
 </div>
 
-![cover](https://user-images.githubusercontent.com/66197713/215348768-2bb38f55-743d-4e42-ab81-26a71782fe9c.png)
+![cover](https://user-images.githubusercontent.com/66197713/218912226-a6847da3-ed88-4395-a35b-a3ab102c4f98.png)
 
 ```py
 !pip install about-me
