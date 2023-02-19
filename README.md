@@ -22,9 +22,9 @@ experience.add("Technical Content Writer at GeeksforGeeks")
 experience.add("Ex-Coding Mentor at CodeKaroYaro")
 
 experience.compile(
-   volunteer = ["TensorFlow User Group- Event Co-organizer","Coding Ninjas Campus Ambassdor"],
-   skill = ["Deep Learning", "AI", "FPGA","Image Processing","TensorFlow","PyTorch","OpenVino","Django","Flask"],
-   tool = ["Jupyter NoteBook","Git-GitHub","Notion","iVerilog","GTKwave","ChatGPT","WordPress","Docker"],
+   volunteer = ["TensorFlow User Group Bangalore- Assisstant Organizer","Coding Ninjas Campus Ambassdor"],
+   skill = ["Deep Learning", "AI", "FPGA","Image Processing","TensorFlow","PyTorch","OpenVino","Django","Flask",],
+   tool = ["Azure","Jupyter NoteBook","Git-GitHub","Notion","iVerilog","GTKwave","ChatGPT","WordPress","Docker"],
 )
 
 history = experience.fit(computer_vision,nlp,epochs=365)
