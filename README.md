@@ -12,14 +12,16 @@
 name = tf.Variable("Tarun R Jain").numpy()
 
 experience = tf.Sequential()
+experience.add("Google Summer of Code 2023 (GSoC23) at caMicroscope")
+experience.add("Community Manager at AI Planet")
 experience.add("Keras Working Group member at HuggingFace")
-experience.add("Product Engineer Intern at Oslash")
+experience.add("AI Curriculum Developer Intern at Sustainable Living Labs")
+experience.add("Ex-Product Engineer Intern at Oslash")
 experience.add("Event Ambassador at Deep Learning.ai")
 experience.add("Ex-Content Creator at Anime Vyuh")
-experience.add("Research Intern at CCCIR")
+experience.add("Ex-Research Intern at CCCIR")
 experience.add("Ex-Machine Learning Engineer at Automize Apps")
 experience.add("Technical Content Writer at GeeksforGeeks")
-experience.add("Ex-Coding Mentor at CodeKaroYaro")
 
 experience.compile(
    volunteer = ["TensorFlow User Group Bangalore- Assisstant Organizer","Coding Ninjas Campus Ambassdor"],
@@ -31,7 +33,7 @@ history = experience.fit(computer_vision,nlp,epochs=365)
 ```
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/TRJ_0751)
 [![](https://img.shields.io/badge/Kaggle-00FF00?style=for-the-badge&logo=Kaggle&logoColor=black)](https://www.kaggle.com/tarundalal)
-[![](https://img.shields.io/badge/HuggingFace-3C2ABE?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/lucifertrj)
+[![](https://img.shields.io/badge/HuggingFace-3C2ABE?style=for-the-badge&logo=hug POPGINGFACE&logoColor=black)](https://huggingface.co/lucifertrj)
 [![](https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=dark-blue)](https://linkedin.com/in/jaintarun75)
 
 
