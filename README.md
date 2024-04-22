@@ -12,7 +12,7 @@
 name = tf.Variable("Tarun R Jain").numpy()
 
 experience = tf.Sequential()
-experience.add("DevRel at AI Planet")
+experience.add("Data Scientist at AI Planet")
 experience.add("Community Lead at Embedchain.ai")
 experience.add("Google Summer of Code 2023 (GSoC23) at caMicroscope")
 experience.add("Google Developer Expert in Machine Learning")
