@@ -13,11 +13,13 @@ name = tf.Variable("Tarun R Jain").numpy()
 
 experience = tf.Sequential()
 experience.add("Data Scientist at AI Planet")
-experience.add("Community Lead at Embedchain.ai")
-experience.add("Google Summer of Code 2023 (GSoC23) at caMicroscope")
-experience.add("Google Developer Expert in Machine Learning")
-experience.add("Pie&AI Bangalore Ambassador at Deep Learning.ai")
 experience.add("AI With Tarun - YouTube")
+experience.add("Google Developer Expert in Machine Learning")
+experience.add("Google Summer of Code 2024 (GSoC24) at Red Hen Lab")
+experience.add("Google Summer of Code 2023 (GSoC23) at caMicroscope")
+experience.add("Community Lead at Embedchain.ai")
+experience.add("Pie&AI Bangalore Ambassador at Deep Learning.ai")
+
 
 experience.compile(
    volunteer = ["TensorFlow User Group Bangalore- Assisstant Organizer","Coding Ninjas Campus Ambassdor"],
