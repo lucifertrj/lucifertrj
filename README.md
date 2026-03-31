@@ -1,23 +1,7 @@
-
 <div align="center">
-   <h2> tf.Variable("Hello World! 😊").numpy() </h2>
+   <h2> tf.Variable("YO 👋 ").numpy() </h2>
    <br />
 </div>
-
-![cover](https://user-images.githubusercontent.com/66197713/218912226-a6847da3-ed88-4395-a35b-a3ab102c4f98.png)
-
-```py
-name = tf.Variable("Tarun R Jain").numpy()
-
-experience = tf.CV()
-experience.add("Data Scientist at AI Planet")
-experience.add("AI With Tarun - YouTube")
-experience.add("Google Developer Expert in Machine Learning")
-experience.add("Google Summer of Code 2024 (GSoC24) at Red Hen Lab")
-experience.add("Google Summer of Code 2023 (GSoC23) at caMicroscope")
-experience.add("Community Lead at Embedchain.ai")
-experience.add("Pie&AI Bangalore Ambassador at Deep Learning.ai")
-```
 
 ## You can find me on
 
@@ -31,7 +15,6 @@ experience.add("Pie&AI Bangalore Ambassador at Deep Learning.ai")
 
 <a href="https://discord.gg/hEMqtDXCHA">
 <img src="https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1"></a>
-
 
 <h2>Learn AI by building stuffs for free</h2>
 <a href="https://www.youtube.com/channel/UC3Dj8QszceMOc87RZWj4W9Q?sub_confirmation=1">
